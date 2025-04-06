@@ -1,0 +1,14 @@
+C:\Users\rafaelly.agalhardo\source\repos\SelectionEInsertionSort\bin\Debug\SelectionEInsertionSort.exe.config
+C:\Users\rafaelly.agalhardo\source\repos\SelectionEInsertionSort\bin\Debug\SelectionEInsertionSort.exe
+C:\Users\rafaelly.agalhardo\source\repos\SelectionEInsertionSort\bin\Debug\SelectionEInsertionSort.pdb
+C:\Users\rafaelly.agalhardo\source\repos\SelectionEInsertionSort\obj\Debug\SelectionEInsertionSort.csproj.AssemblyReference.cache
+C:\Users\rafaelly.agalhardo\source\repos\SelectionEInsertionSort\obj\Debug\SelectionEInsertionSort.csproj.CoreCompileInputs.cache
+C:\Users\rafaelly.agalhardo\source\repos\SelectionEInsertionSort\obj\Debug\SelectionEInsertionSort.exe
+C:\Users\rafaelly.agalhardo\source\repos\SelectionEInsertionSort\obj\Debug\SelectionEInsertionSort.pdb
+C:\Users\USUARIO\Source\Repos\SelectionEInsertionSort\bin\Debug\SelectionEInsertionSort.exe.config
+C:\Users\USUARIO\Source\Repos\SelectionEInsertionSort\bin\Debug\SelectionEInsertionSort.exe
+C:\Users\USUARIO\Source\Repos\SelectionEInsertionSort\bin\Debug\SelectionEInsertionSort.pdb
+C:\Users\USUARIO\Source\Repos\SelectionEInsertionSort\obj\Debug\SelectionEInsertionSort.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Source\Repos\SelectionEInsertionSort\obj\Debug\SelectionEInsertionSort.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Source\Repos\SelectionEInsertionSort\obj\Debug\SelectionEInsertionSort.exe
+C:\Users\USUARIO\Source\Repos\SelectionEInsertionSort\obj\Debug\SelectionEInsertionSort.pdb
